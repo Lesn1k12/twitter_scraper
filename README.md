@@ -44,19 +44,19 @@ pip install -r requirements.txt
 ### 4️⃣ Environment variables configuration
 Create a .env file in the project root directory with the following fields:
 
-TWITTER_EMAIL=your-twitter-email
-TWITTER_PASSWORD=your-twitter-password
+- TWITTER_EMAIL=your-twitter-email
+- TWITTER_PASSWORD=your-twitter-password
 
-GLOGIN_API_KEY=your-gologin-api-key
-GLOGIN_PROFILE_ID=your-gologin-profile-id
+- GLOGIN_API_KEY=your-gologin-api-key
+- GLOGIN_PROFILE_ID=your-gologin-profile-id
 
-OPENAI_API_KEY=your-openai-api-key
+- OPENAI_API_KEY=your-openai-api-key
 
-POSTGRES_HOST=localhost
-POSTGRES_PORT=5432
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=postgres
-POSTGRES_DB=twitter_bot
+- POSTGRES_HOST=localhost
+- POSTGRES_PORT=5432
+- POSTGRES_USER=postgres
+- POSTGRES_PASSWORD=postgres
+- POSTGRES_DB=twitter_bot
 
 ▶️ How to run the bot
 
